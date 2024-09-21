@@ -24,7 +24,7 @@ elif t == "/":
     resposta = "Você escolheu Divisão"
     resultado = n1 / n2
 else:
-    resposta = "Operação invlida!!!"
+    resposta = "Operação inválida!!!"
 
 
 # Saída
