@@ -1,0 +1,14 @@
+import os
+
+os.system("cls || clear") #Limpa o terminal.
+
+a = 10
+b = 20
+
+auxiliar = a 
+
+a = b
+b = auxiliar
+
+print(f"a = {a}")
+print(f"a = {b}")
